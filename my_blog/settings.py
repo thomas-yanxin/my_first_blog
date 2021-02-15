@@ -133,7 +133,7 @@ EMAIL_HOST = 'smtp.163.com'
 # 改为你自己的邮箱名！
 EMAIL_HOST_USER = 'yx20001210@163.com'
 # 你的邮箱密码
-EMAIL_HOST_PASSWORD = 'MQOMAGUNYGELXADR'
+EMAIL_HOST_PASSWORD = '********'
 # 发送邮件的端口
 EMAIL_PORT = 25
 # 是否使用 TLS
